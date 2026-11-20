@@ -1,6 +1,4 @@
-# NetworkWalks-B084-Week3-Password-Cracking
-Password Cracking and Hash Calcuulator
-# Networkwalks Week 3 | PDF Password Recovery
+# NetworkWalks B084 Week3 | PDF Password Cracking
 
 I recovered the passwords for two encrypted training PDFs and verified each result by opening the corresponding document and reading its flag. The first task used John the Ripper (JtR) on Kali Linux. The second used the Networkwalks browser-based tools.
 
